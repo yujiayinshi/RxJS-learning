@@ -1,7 +1,7 @@
 # RxJS-learning
 learn RxJS
 
-#[RxJS](http://reactivex.io/rxjs/)
+## [RxJS](http://reactivex.io/rxjs/)
 
 RxJS是什么？能解决什么问题？
 
@@ -11,7 +11,7 @@ RxJS是通过使用可观察序列来组合异步和基于事件的程序的库�
 
 简单来说，RxJS解决异步和事件组合的问题。
 
-#重要概念
+## 重要概念
 
 Observable：RxJS中最核心的一个数据类型。
 
