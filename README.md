@@ -29,6 +29,8 @@ Subject: 相当于一个EventEmitter，而且是向多个Observers组播一个�
 
 Schedulers: 是集中调度器来控制并发，允许我们在例如计算时进行协调。 setTimeout或requestAnimationFrame或其他。
 
+[2 minute introduction to Rx](https://medium.com/@andrestaltz/2-minute-introduction-to-rx-24c8ca793877)
+
 ## 例子
 
 简单的查询框，查询github用户账号
