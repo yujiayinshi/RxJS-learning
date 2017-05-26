@@ -78,3 +78,5 @@ function wikiIt (name) {
   </body>
 </html>
 ```
+
+[更多例子](https://github.com/Reactive-Extensions/RxJS/tree/master/examples)
